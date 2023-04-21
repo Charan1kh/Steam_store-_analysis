@@ -1,4 +1,4 @@
-# Steam_store-_analysis
+# Steam_store_analysis
 
 In this GitHub repository I present a comprehensive analysis of Valve's Steam game store using state-of-the-art data visualization tools and techniques. Leveraging the power of Tableau, MS Excel, and MySQL, I have meticulously cleaned and processed a large dataset containing information about over 27,000 games scraped from Steam and SteamSpy APIs, which is available on Kaggle, added by NIK DAVIS (https://www.kaggle.com/datasets/nikdavis/steam-store-games).
 
